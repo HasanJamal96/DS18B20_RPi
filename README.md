@@ -1,7 +1,8 @@
-Sensor	       RPi
-Red Wire        5v
-Black Wire	    GND
-Yellow Wire	  GPIO 17
+	Sensor	        RPi
+
+	Red Wire        5v
+	Black Wire	GND
+	Yellow Wire    GPIO 17
 
 Enable ONE-WIRE Interface:
 Open terminal and run the following commands.
