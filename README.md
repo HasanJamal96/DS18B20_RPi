@@ -5,7 +5,7 @@ Yellow Wire	  GPIO 17
 
 Enable ONE-WIRE Interface:
 Open terminal and run the following commands.
-$ sudo nano /boot/config.txt
+	sudo nano /boot/config.txt
 
 New window will appear add this line at the end of the file then press ctrl+x then press y then enter to save.
 
@@ -13,5 +13,5 @@ New window will appear add this line at the end of the file then press ctrl+x th
 
 Now reboot RPi.
 After reboot, open terminal and run the following commands.
-$ sudo modprobe w1-gpio
-$ sudo modprobe w1-therm
+	sudo modprobe w1-gpio
+	sudo modprobe w1-therm
