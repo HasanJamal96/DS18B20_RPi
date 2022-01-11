@@ -5,6 +5,7 @@
 	Yellow Wire    GPIO 4
 
 Enable ONE-WIRE Interface:
+GPIO 4 is used for 1-wire device.
 Open terminal and run the following commands.
 	
 	# sudo nano /boot/config.txt
