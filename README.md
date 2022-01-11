@@ -2,7 +2,7 @@
 
 	Red Wire        5v
 	Black Wire	GND
-	Yellow Wire    GPIO 17
+	Yellow Wire    GPIO 4
 
 Enable ONE-WIRE Interface:
 Open terminal and run the following commands.
